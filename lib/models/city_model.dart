@@ -13,7 +13,7 @@ class CityModel {
     required this.urlImage,
   });
 
-  List<CityModel> cities = [
+  static List<CityModel> cities = [
     CityModel(
       id: "1",
       cityName: "New York",
