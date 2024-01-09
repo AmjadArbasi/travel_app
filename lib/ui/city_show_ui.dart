@@ -27,7 +27,7 @@ class CityShowUi extends StatelessWidget {
           ),
           Positioned(
             top: 60,
-            left: 10,
+            left: 20,
             child: InkWell(
               onTap: () {
                 Get.back();
