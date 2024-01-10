@@ -34,9 +34,7 @@ class HomeUi extends StatelessWidget {
 }
 
 class _CustomBottomBar extends StatelessWidget {
-  const _CustomBottomBar({
-    super.key,
-  });
+  const _CustomBottomBar();
 
   @override
   Widget build(BuildContext context) {
