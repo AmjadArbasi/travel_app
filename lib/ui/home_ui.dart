@@ -128,7 +128,7 @@ class _CustomTitleText extends StatelessWidget {
   Widget build(BuildContext context) {
     return SizedBox(
       child: Text(
-        "Discover\nNew Your with us!",
+        "Discover\nThe World with us!",
         style: Theme.of(context)
             .textTheme
             .headlineSmall!
