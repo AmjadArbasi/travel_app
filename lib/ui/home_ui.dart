@@ -190,7 +190,7 @@ class _CustonTagBar extends StatelessWidget {
             style: Theme.of(context)
                 .textTheme
                 .bodyMedium!
-                .copyWith(fontWeight: FontWeight.bold),
+                .copyWith(fontWeight: FontWeight.bold, color: Colors.grey),
           ),
         ),
         TextButton(
@@ -200,7 +200,7 @@ class _CustonTagBar extends StatelessWidget {
             style: Theme.of(context)
                 .textTheme
                 .bodyMedium!
-                .copyWith(fontWeight: FontWeight.bold),
+                .copyWith(fontWeight: FontWeight.bold, color: Colors.grey),
           ),
         ),
         TextButton(
@@ -210,7 +210,7 @@ class _CustonTagBar extends StatelessWidget {
             style: Theme.of(context)
                 .textTheme
                 .bodyMedium!
-                .copyWith(fontWeight: FontWeight.bold),
+                .copyWith(fontWeight: FontWeight.bold, color: Colors.grey),
           ),
         ),
       ],
